@@ -1,0 +1,45 @@
+body  { background-color: black  }
+
+h1  { font-family: helvetica;
+      color: white;
+      text-align: center;
+}
+
+h4  { font-family: courier;
+      color: white;
+      text-align: center;
+      border: solid 2px white;
+      border-radius: 7px;
+      padding: 10px;
+      margin: 30px;
+}
+
+h6  { font-family: courier;
+      font-size: 20px;
+      height: 150 px;
+      margin-bottom: 80px;
+}
+
+p  {  color: white;
+      font-family: courier;
+      font-size: 20px;
+      font-weight: bold;
+}
+
+li  {  color: white;
+       font-family: courier;
+       font-size: 25px;
+       font-weight: bold;
+       margin-left: 15px;
+}
+
+h2  {  color: white;
+       width: 70%;
+       height: 20px;
+       border: solid 3px white;
+       border-radius: 20px;
+} 
+
+
+
+
